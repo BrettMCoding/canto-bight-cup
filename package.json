@@ -1,0 +1,11 @@
+{
+  "name": "canto_bight_cup",
+  "version": "1.0.0",
+  "description": "Webpage for Canto Bight Cup. A Star Wars: Legion event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Marsh",
+  "license": "ISC"
+}
